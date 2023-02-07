@@ -1,0 +1,13 @@
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\bin\Debug\Database1.mdf
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\bin\Debug\Database1_log.ldf
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe.config
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\bin\Debug\PollutionMap.pdb
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.AssemblyReference.cache
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.SuggestedBindingRedirects.cache
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Autentificare.resources
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Properties.Resources.resources
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.GenerateResource.cache
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.CoreCompileInputs.cache
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\obj\Debug\PollutionMap.exe
+D:\Apps\C#\07.02.2023\PollutionMap\PollutionMap\obj\Debug\PollutionMap.pdb
